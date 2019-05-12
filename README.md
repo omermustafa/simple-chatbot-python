@@ -25,7 +25,7 @@ python bot.py
 
 output is:
 
-![output](output.png)
+![output](output.PNG)
 
 ## Contributing
 
@@ -37,4 +37,4 @@ Feel free to submit pull requests to me.
 
 ## Licensing
 
-![MITLicense](licence.svg)
+![MITLicense]
